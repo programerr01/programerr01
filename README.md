@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [
+![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+](https://www.linkedin.com/in/yogesh-pandey-94bb8a1a3/)
+</a>
+</p>
 
- 🔭 *```React/Redux/Node```*
+<!-- 🔭 *```React/Redux/Node```* --->
 ####  *```Working on React Application```*
