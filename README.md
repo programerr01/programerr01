@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![text](https://github.com/programerr01/programerr01/blob/main/carbon%20(1).png)
+
  [
 ![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 ](https://www.linkedin.com/in/yogesh-pandey-94bb8a1a3/)
