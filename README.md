@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 ](https://www.linkedin.com/in/yogesh-pandey-94bb8a1a3/)
 </a>
 </p>
-
-<!-- 🔭 *```React/Redux/Node```* --->
-####  *```Working on React Application```*
+🔭 *```React/Node/Python```* 
