@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 🔭 *`React/Node/Python`* 
+
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
@@ -48,9 +49,9 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-backdrop-filter: saturate(2) blur(10px) brightness(0.6) opacity(1.2);
+backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
 mask-image: linear-gradient(transparent 65%, #85c0d496 94%);
-background: linear-gradient(48deg, #b7dddb4a, transparent);
+background: linear-gradient(45deg, #b7dddb4a, transparent);
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -63,7 +64,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 z-index: 99;
-backdrop-filter: hue-rotate(90deg);
+backdrop-filter: hue-rotate(89deg);
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -86,6 +87,5 @@ color:transparent;
 pointer-events: none;
 position: fixed;
 inset: 0;
-backdrop-filter: saturate(3) blur(20px) brightness(3.5) opacity(0.1);
-"]{}
-```
+backdrop-filter: saturate(3) blur(10px) brightness(3.5) opacity(0.4);
+"]{}```
