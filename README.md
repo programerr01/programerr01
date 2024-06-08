@@ -50,7 +50,7 @@ object-fit: cover;
 background-size: cover;
 backdrop-filter: saturate(2) blur(10px) brightness(0.6) opacity(1.2);
 mask-image: linear-gradient(transparent 65%, #85c0d496 94%);
-background: linear-gradient(49deg, #c7eedb4a, transparent);
+background: linear-gradient(48deg, #b7dddb4a, transparent);
 "]{}
 
 \mmlToken{ms}[fontfamily="
