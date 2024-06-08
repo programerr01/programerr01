@@ -36,7 +36,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/programerr01/programerr01/main/carbon%20(1).png');
+background: url('https://raw.githubusercontent.com/programerr01/programerr01/main/cover_page.jpeg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
